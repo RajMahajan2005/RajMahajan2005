@@ -13,7 +13,7 @@
 ![Location](https://img.shields.io/badge/Location-Nashik%2C%20Maharashtra%2C%20India-5B21B6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-teal-chi-55.vercel.app/.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-mahajan-6b6b92264)
 [![Gmail](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajmahajan35511@@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RajMahajan2005)
