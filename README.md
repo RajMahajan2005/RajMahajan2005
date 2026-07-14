@@ -13,6 +13,7 @@
 ![Location](https://img.shields.io/badge/Location-Nashik%2C%20Maharashtra%2C%20India-5B21B6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-teal-chi-55.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-mahajan-6b6b92264)
 [![Gmail](https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajmahajan35511@gmail.com)
@@ -102,7 +103,7 @@ A full-stack platform designed to streamline e-waste collection, tracking, and r
 | **Performance** | Optimized REST API response cycles for real-time tracking |
 | **Security** | Role-based access control, secure authentication |
 | **Impact** | Winning solution — Converges2025 National Innovation Challenge (500+ teams) |
-| **Repository** | [GitHub Link](https://github.com/RajMahajan2005) |
+| **Repository** | [GitHub Link](https://github.com/RajMahajan2005/AI-Powered-E-Waste-Management-Platform) |
 
 This project reflects a product engineering mindset — solving a real-world sustainability problem through a scalable full-stack architecture, backed by a national-level innovation win.
 
@@ -121,7 +122,7 @@ An intelligent document Q&A system that enables natural language querying across
 | **Performance** | Low-latency semantic retrieval via FAISS similarity search |
 | **Security** | Sandboxed document processing, controlled API access |
 | **Impact** | Demonstrates production-ready applied GenAI engineering |
-| **Repository** | [GitHub Link](https://github.com/RajMahajan2005) |
+| **Repository** | [GitHub Link](https://github.com/RajMahajan2005/Multiple_PDF-USING-GENAI) |
 
 Built to showcase practical LLM engineering — combining vector search, embedding pipelines, and generative response synthesis into a cohesive, reliable system.
 
